@@ -3,7 +3,9 @@
 ## Identitas
 
 **Nama:** Zahra Arayanindra Arum Samudra
+
 **NIM:** 452024618068
+
 **Mata Kuliah:** Pembelajaran Mesin 2
 
 ---
